@@ -1,0 +1,5 @@
+F:\Programming\Functions\Q4\bin\Debug\Q4.exe.config
+F:\Programming\Functions\Q4\bin\Debug\Q4.exe
+F:\Programming\Functions\Q4\bin\Debug\Q4.pdb
+F:\Programming\Functions\Q4\obj\Debug\Q4.exe
+F:\Programming\Functions\Q4\obj\Debug\Q4.pdb

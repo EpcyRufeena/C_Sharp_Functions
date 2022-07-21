@@ -1,0 +1,5 @@
+F:\Programming\Functions\Q3\bin\Debug\Q3.exe.config
+F:\Programming\Functions\Q3\bin\Debug\Q3.exe
+F:\Programming\Functions\Q3\bin\Debug\Q3.pdb
+F:\Programming\Functions\Q3\obj\Debug\Q3.exe
+F:\Programming\Functions\Q3\obj\Debug\Q3.pdb

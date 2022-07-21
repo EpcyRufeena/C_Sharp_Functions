@@ -1,0 +1,6 @@
+F:\Programming\Functions\Q1\bin\Debug\Q1.exe.config
+F:\Programming\Functions\Q1\bin\Debug\Q1.exe
+F:\Programming\Functions\Q1\bin\Debug\Q1.pdb
+F:\Programming\Functions\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+F:\Programming\Functions\Q1\obj\Debug\Q1.exe
+F:\Programming\Functions\Q1\obj\Debug\Q1.pdb

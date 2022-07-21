@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{C301A61A-7ACB-43BD-A136-0523D6272671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set1_Functions", "Q2\Set1_Functions.csproj", "{FD28783B-16A9-4F68-BBD0-04A719AC3541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C301A61A-7ACB-43BD-A136-0523D6272671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C301A61A-7ACB-43BD-A136-0523D6272671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C301A61A-7ACB-43BD-A136-0523D6272671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C301A61A-7ACB-43BD-A136-0523D6272671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD28783B-16A9-4F68-BBD0-04A719AC3541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD28783B-16A9-4F68-BBD0-04A719AC3541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD28783B-16A9-4F68-BBD0-04A719AC3541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD28783B-16A9-4F68-BBD0-04A719AC3541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
